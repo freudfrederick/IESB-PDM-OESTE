@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Programação para Dispositivos Móveis</Text>
-      <Text>Olá, Marcelo Farias</Text>
+      <Text>Olá, Freud Frederick</Text>
       <Text>Meu segundo passo com Expo e React Native</Text>
     </View>
   );
