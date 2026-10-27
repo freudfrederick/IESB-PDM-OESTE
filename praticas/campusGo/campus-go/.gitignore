@@ -1,0 +1,10 @@
+node_modules/
+.expo/
+dist/
+web-build/
+npm-debug.*
+*.log
+
+# Variáveis de ambiente: cada pessoa cria o seu a partir do .env.example
+.env
+.env.local
